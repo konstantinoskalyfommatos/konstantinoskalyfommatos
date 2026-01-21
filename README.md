@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @constandinoskalifo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 **Hi!**
+My name is Konstantinos and I love developing Software around AI products.
 
-<!---
-constandinoskalifo/constandinoskalifo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📅 Currently
+- Finishing my Master's thesis, where I propose a new method for **distilling Text Embeddings**.
+- Freelancing
+
+
+# 👉 Interested in (list not exclusive) 
+- Information Extraction,
+- Retrieval,
+- RAG,
+- ETL pipelines.
+
+Especially interested for projects that support or extend research efforts.
+
+
+# ✉️ Contact
+- Email: [kkalyfo@gmail.com](mailto:kkalyfo@gmail.com)
+- LinkenIn: [Konstantinos Kalyfommatos](https://www.linkedin.com/in/konstantinos-kalyfommatos/)
