@@ -1,5 +1,5 @@
 # 👋 **Hi!**
-My name is Konstantinos and I love developing Software around AI products.
+I'm Konstantinos and I am an NLP Engineer. 
 
 # 📅 Currently
 - Finishing my Master's thesis, where I propose a new method for **distilling Text Embeddings**.
@@ -7,12 +7,12 @@ My name is Konstantinos and I love developing Software around AI products.
 
 
 # 👉 Interested in (list not exclusive) 
-- Information Extraction,
-- Retrieval,
-- RAG,
-- ETL pipelines.
+- Information Extraction
+- Information Retrieval
+- RAG
+- ETL pipelines
 
-Especially interested for projects that support or extend research efforts.
+Especially interested in projects that support or extend research efforts.
 
 
 # ✉️ Contact
