@@ -2,7 +2,7 @@
 I'm Konstantinos and I am an NLP Engineer. 
 
 # 📅 Currently
-- Finishing my Master's thesis, where I propose a new method for **distilling Text Embeddings**.
+- Finishing my Master's thesis, at UZH, where I propose a new method for **Dimensionality Recuction for Text Embeddings**.
 - Freelancing
 
 
